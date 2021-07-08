@@ -4849,3 +4849,6 @@ thought about cache invalidation, cache hits steady; conceptual performance tuni
 ## 2021-07-08T17:54:19
 algorithms pondered, implementation postponed; strategy before tactics.
 
+## 2021-07-08T15:02:11
+considered logging strategies, log files unchanging; traceability in theory.
+
