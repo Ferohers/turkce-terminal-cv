@@ -4906,3 +4906,6 @@ considered scalability, scaled back coding; strategic pause for future growth.
 ## 2021-07-14T11:51:19
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2021-07-14T09:59:11
+considered containerization, docker-free day; isolation in thought only.
+
