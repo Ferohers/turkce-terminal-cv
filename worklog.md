@@ -5011,3 +5011,6 @@ mapped the problem domain, code domain unexplored; charting the course.
 ## 2021-08-03T18:52:21
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2021-08-03T23:07:12
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
