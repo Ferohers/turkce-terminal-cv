@@ -5041,3 +5041,6 @@ considered cross-platform compatibility, platform-specific code intact; theoreti
 ## 2021-08-07T18:15:00
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2021-08-09T18:46:53
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
