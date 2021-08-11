@@ -5044,3 +5044,6 @@ contemplated complexities, deferred implementation; sometimes thinking is doing.
 ## 2021-08-09T18:46:53
 conducted thought experiments, real experiments postponed; hypothesis before test.
 
+## 2021-08-10T21:06:05
+mental feature toggles, all features on; theoretical selective execution.
+
