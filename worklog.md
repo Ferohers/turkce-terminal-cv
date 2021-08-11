@@ -5050,3 +5050,6 @@ mental feature toggles, all features on; theoretical selective execution.
 ## 2021-08-11T20:36:54
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2021-08-11T10:52:46
+mental load testing, servers unchallenged; capacity planning in theory.
+
