@@ -5047,3 +5047,6 @@ conducted thought experiments, real experiments postponed; hypothesis before tes
 ## 2021-08-10T21:06:05
 mental feature toggles, all features on; theoretical selective execution.
 
+## 2021-08-11T20:36:54
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
