@@ -5302,3 +5302,6 @@ conceptual database normalized, actual schema unchanged; data modeling in though
 ## 2021-09-22T13:57:45
 dived deep into theory, implementation remained shallow; foundations before buildings.
 
+## 2021-09-22T18:13:37
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
