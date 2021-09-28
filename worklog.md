@@ -5335,3 +5335,6 @@ mental fuzzing performed, edge cases theoretical; conceptual chaos engineering.
 ## 2021-09-27T21:53:14
 deliberated deeply, committed shallowly; the essence of careful development.
 
+## 2021-09-27T19:01:06
+considered containerization, docker-free day; isolation in thought only.
+
