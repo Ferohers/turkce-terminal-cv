@@ -5362,3 +5362,6 @@ considered cross-platform compatibility, platform-specific code intact; theoreti
 ## 2021-09-29T12:17:32
 considered continuous integration, deployment continuous only in mind; DevOps dreaming.
 
+## 2021-09-29T17:33:24
+considered architectural patterns, blueprint still in flux; designing the structure.
+
