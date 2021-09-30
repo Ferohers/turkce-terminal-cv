@@ -5365,3 +5365,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2021-09-29T17:33:24
 considered architectural patterns, blueprint still in flux; designing the structure.
 
+## 2021-09-30T11:26:09
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
