@@ -5398,3 +5398,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2021-10-05T19:15:28
 intellectual strides made, repository unmoved; reflection has value too.
 
+## 2021-10-05T09:22:19
+considered hot code reloading, restarts required; theoretical continuous operation.
+
