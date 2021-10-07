@@ -5404,3 +5404,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2021-10-05T14:29:11
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2021-10-06T20:33:51
+explored web assembly, javascript dominant; theoretical performance optimization.
+
