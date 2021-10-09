@@ -5440,3 +5440,6 @@ code readability contemplated, style guide adherence pending; clarity in concept
 ## 2021-10-08T14:28:35
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2021-10-08T19:35:26
+contemplated complexities, deferred implementation; sometimes thinking is doing.
+
