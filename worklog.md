@@ -5467,3 +5467,6 @@ explored possibilities, deferred decisions; progress measured in thoughts.
 ## 2021-10-12T20:16:52
 mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
 
+## 2021-10-13T09:26:02
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
