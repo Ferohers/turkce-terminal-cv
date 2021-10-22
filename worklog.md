@@ -5527,3 +5527,6 @@ explored the forest, trees remain untouched; zooming out has value.
 ## 2021-10-22T22:50:33
 explored architectural possibilities, blueprint remains draft; planning has merit.
 
+## 2021-10-22T12:57:25
+considered oauth flows, authentication unchanged; theoretical access control.
+
