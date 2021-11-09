@@ -5635,3 +5635,6 @@ ideated on interface design, UI unchanged; conceptual user experience work.
 ## 2021-11-08T22:53:38
 conducted thought experiments, real experiments postponed; hypothesis before test.
 
+## 2021-11-09T10:22:53
+conceptual cache invalidated, actual cache untouched; refreshing mental models.
+
