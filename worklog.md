@@ -5674,3 +5674,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2021-11-12T14:51:36
 mental feature toggles, all features on; theoretical selective execution.
 
+## 2021-11-12T11:59:28
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
