@@ -5671,3 +5671,6 @@ intellectual heavy lifting day; codebase weight unchanged.
 ## 2021-11-12T09:36:44
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2021-11-12T14:51:36
+mental feature toggles, all features on; theoretical selective execution.
+
