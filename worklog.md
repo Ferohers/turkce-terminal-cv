@@ -5746,3 +5746,6 @@ abstraction level increased, concrete implementations deferred; hovering above t
 ## 2021-11-22T19:18:14
 interface designs sketched mentally, APIs unchanged; UX of the mind.
 
+## 2021-11-22T23:25:06
+considered edge cases, test cases not yet written; defensive thinking.
+
