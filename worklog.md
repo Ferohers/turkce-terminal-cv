@@ -5740,3 +5740,6 @@ explored event-driven architecture, listeners unimplemented; reactive thinking e
 ## 2021-11-19T12:18:14
 intellectual strides made, repository unmoved; reflection has value too.
 
+## 2021-11-22T21:02:22
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
