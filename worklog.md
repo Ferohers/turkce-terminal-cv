@@ -5743,3 +5743,6 @@ intellectual strides made, repository unmoved; reflection has value too.
 ## 2021-11-22T21:02:22
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2021-11-22T19:18:14
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
