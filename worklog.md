@@ -5773,3 +5773,6 @@ code smells identified mentally, refactoring todo list grew; awareness phase.
 ## 2021-11-23T23:20:07
 engaged in conceptual debugging, codebase debug-free day; preemptive problem-solving.
 
+## 2021-11-24T19:06:34
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
