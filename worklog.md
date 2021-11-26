@@ -5800,3 +5800,6 @@ considered helm charts, kubernetes clusters imaginary; theoretical container orc
 ## 2021-11-26T21:04:24
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2021-11-26T10:11:16
+evaluated trade-offs, decisions pending; weighing options is progress too.
+
