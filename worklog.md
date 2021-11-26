@@ -5806,3 +5806,6 @@ evaluated trade-offs, decisions pending; weighing options is progress too.
 ## 2021-11-26T15:19:07
 considered time-series databases, relational queries ongoing; theoretical trend analysis.
 
+## 2021-11-26T13:34:59
+considered hot code reloading, restarts required; theoretical continuous operation.
+
