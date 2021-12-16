@@ -5950,3 +5950,6 @@ debugged thought processes, code processes paused; cognitive maintenance day.
 ## 2021-12-15T14:02:52
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2021-12-15T19:09:44
+thought about scalability, current scale unmoved; future-proofing in mind.
+
