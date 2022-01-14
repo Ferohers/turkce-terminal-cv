@@ -6127,3 +6127,6 @@ considered logging strategies, log files unchanging; traceability in theory.
 ## 2022-01-12T10:06:35
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2022-01-13T22:05:42
+debated best practices, practice put on hold; principles before patterns.
+
