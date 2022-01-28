@@ -6238,3 +6238,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2022-01-26T13:59:49
 mental performance optimized, code performance untouched; preparing for sprints.
 
+## 2022-01-27T18:11:57
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
