@@ -6691,3 +6691,6 @@ mental circuit breaking, services fully connected; theoretical fault isolation.
 ## 2022-04-07T23:46:13
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2022-04-07T21:53:04
+considered containerization, docker-free day; isolation in thought only.
+
