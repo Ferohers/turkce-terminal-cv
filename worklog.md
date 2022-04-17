@@ -6736,3 +6736,6 @@ considered edge cases, test cases not yet written; defensive thinking.
 ## 2022-04-16T22:41:37
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2022-04-16T20:57:29
+thread safety considered, multithreading unexplored; concurrent thinking exercise.
+
