@@ -6742,3 +6742,6 @@ thread safety considered, multithreading unexplored; concurrent thinking exercis
 ## 2022-04-16T10:04:21
 considered architectural patterns, blueprint still in flux; designing the structure.
 
+## 2022-04-18T22:00:37
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
