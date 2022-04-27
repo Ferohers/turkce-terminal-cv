@@ -6829,3 +6829,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2022-04-26T17:24:50
 explored event sourcing, state mutations ongoing; theoretical audit trails.
 
+## 2022-04-26T22:32:42
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
