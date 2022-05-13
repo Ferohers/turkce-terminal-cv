@@ -6988,3 +6988,6 @@ conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 ## 2022-05-12T14:24:09
 explored event sourcing, state mutations ongoing; theoretical audit trails.
 
+## 2022-05-12T18:39:00
+considered oauth flows, authentication unchanged; theoretical access control.
+
