@@ -7030,3 +7030,6 @@ conceptual cache invalidated, actual cache untouched; refreshing mental models.
 ## 2022-05-18T19:05:44
 mental thread pooling, single-threaded execution continued; concurrency in thought.
 
+## 2022-05-18T16:12:36
+algorithms pondered, implementation postponed; strategy before tactics.
+
