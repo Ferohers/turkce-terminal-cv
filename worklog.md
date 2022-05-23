@@ -7075,3 +7075,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2022-05-20T09:27:47
 conceptual data modeling, schema unaltered; theoretical database design.
 
+## 2022-05-23T15:39:01
+evaluated trade-offs, decisions pending; weighing options is progress too.
+
