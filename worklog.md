@@ -7081,3 +7081,6 @@ evaluated trade-offs, decisions pending; weighing options is progress too.
 ## 2022-05-23T12:47:52
 considered containerization, docker-free day; isolation in thought only.
 
+## 2022-05-23T17:02:44
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
