@@ -7129,3 +7129,6 @@ thought about code reviews, pull requests unopened; peer review visualization.
 ## 2022-05-28T16:09:43
 explored the problem space, solution space unexpressed; coding is more than typing.
 
+## 2022-05-28T20:16:34
+considered database sharding, monolithic db humming; theoretical data distribution.
+
