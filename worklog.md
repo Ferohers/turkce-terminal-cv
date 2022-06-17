@@ -7294,3 +7294,6 @@ deliberated deeply, committed shallowly; the essence of careful development.
 ## 2022-06-16T18:21:53
 pondered homomorphic encryption, data in clear; theoretical secure computation.
 
+## 2022-06-16T23:28:45
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
