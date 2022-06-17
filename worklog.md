@@ -7291,3 +7291,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2022-06-16T13:13:02
 deliberated deeply, committed shallowly; the essence of careful development.
 
+## 2022-06-16T18:21:53
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
