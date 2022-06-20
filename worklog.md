@@ -7297,3 +7297,6 @@ pondered homomorphic encryption, data in clear; theoretical secure computation.
 ## 2022-06-16T23:28:45
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2022-06-20T12:25:33
+mental refactoring in progress, codebase untouched; restructuring thoughts.
+
