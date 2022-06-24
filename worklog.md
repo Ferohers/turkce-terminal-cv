@@ -7339,3 +7339,6 @@ pondered much, produced little; tomorrow's another chance.
 ## 2022-06-24T23:09:31
 considered cross-platform compatibility, platform-specific code intact; theoretical portability.
 
+## 2022-06-24T13:17:23
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
