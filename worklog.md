@@ -7357,3 +7357,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2022-06-27T19:15:08
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2022-06-27T09:22:59
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
