@@ -7360,3 +7360,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2022-06-27T09:22:59
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2022-06-27T22:38:51
+considered message queues, synchronous operations ongoing; asynchronous ideation.
+
