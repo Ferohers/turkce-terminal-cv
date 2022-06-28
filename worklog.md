@@ -7354,3 +7354,6 @@ mental branches created, git branches unchanged; parallel universe planning.
 ## 2022-06-24T18:55:41
 abstract data structures pondered, concrete ones unaltered; theoretical modeling day.
 
+## 2022-06-27T19:15:08
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
