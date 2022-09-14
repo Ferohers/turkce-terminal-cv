@@ -7975,3 +7975,6 @@ pondered continuous integration, pipeline unchanged; devops dreaming.
 ## 2022-09-13T14:33:33
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2022-09-14T13:53:26
+explored web assembly, javascript dominant; theoretical performance optimization.
+
