@@ -8029,3 +8029,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2022-09-20T20:29:44
 ideas percolated, execution postponed; tomorrow's another dev day.
 
+## 2022-09-20T10:37:36
+code smells identified mentally, refactoring todo list grew; awareness phase.
+
