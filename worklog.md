@@ -8125,3 +8125,6 @@ explored event sourcing, state mutations ongoing; theoretical audit trails.
 ## 2022-09-29T20:16:35
 explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
 
+## 2022-09-30T12:58:14
+considered oauth flows, authentication unchanged; theoretical access control.
+
