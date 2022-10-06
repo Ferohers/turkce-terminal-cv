@@ -8179,3 +8179,6 @@ API design pondered, endpoints undocumented; interface ideation day.
 ## 2022-10-06T09:38:37
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2022-10-06T14:45:28
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
