@@ -8170,3 +8170,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2022-10-05T22:53:37
 mulled over possibilities, kept options open; decision tree growing.
 
+## 2022-10-05T20:09:29
+considered oauth flows, authentication unchanged; theoretical access control.
+
