@@ -8173,3 +8173,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2022-10-05T20:09:29
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2022-10-06T20:22:45
+API design pondered, endpoints undocumented; interface ideation day.
+
