@@ -8245,3 +8245,6 @@ pondered orm abstractions, sql queries unchanged; data access theorizing.
 ## 2022-10-14T20:48:06
 conducted thought experiments, real experiments postponed; hypothesis before test.
 
+## 2022-10-14T10:04:57
+mulled over possibilities, kept options open; decision tree growing.
+
