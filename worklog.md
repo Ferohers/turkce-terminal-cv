@@ -8284,3 +8284,6 @@ considered content delivery networks, origin servers busy; theoretical edge comp
 ## 2022-10-20T19:30:41
 invested in mental models, dividends pending in code; long-term development strategy.
 
+## 2022-10-20T09:37:33
+considered scalability issues, scaling postponed; thinking big while starting small.
+
