@@ -8320,3 +8320,6 @@ deepened domain knowledge, domain objects unchanged; context-building phase.
 ## 2022-10-27T13:41:35
 contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
 
+## 2022-10-27T18:48:27
+mental feature toggles, all features on; theoretical selective execution.
+
