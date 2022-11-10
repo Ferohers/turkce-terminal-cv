@@ -8428,3 +8428,6 @@ contemplated code smells, refactoring deferred; awareness precedes action.
 ## 2022-11-10T19:38:40
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2022-11-10T09:56:37
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
