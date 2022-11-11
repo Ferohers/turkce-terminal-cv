@@ -8425,3 +8425,6 @@ evaluated trade-offs, decisions pending; weighing options is progress too.
 ## 2022-11-10T21:23:48
 contemplated code smells, refactoring deferred; awareness precedes action.
 
+## 2022-11-10T19:38:40
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
