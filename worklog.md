@@ -8581,3 +8581,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2022-11-26T09:33:21
 mental memory management, garbage collector idle; cognitive resource allocation.
 
+## 2022-11-26T14:49:13
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
