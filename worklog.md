@@ -8599,3 +8599,6 @@ conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 ## 2022-11-28T11:51:27
 mental thread pooling, single-threaded execution continued; concurrency in thought.
 
+## 2022-11-28T15:59:19
+debated best practices, practice put on hold; principles before patterns.
+
