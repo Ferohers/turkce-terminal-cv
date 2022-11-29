@@ -8602,3 +8602,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2022-11-28T15:59:19
 debated best practices, practice put on hold; principles before patterns.
 
+## 2022-11-28T20:06:10
+thought-level logging increased, actual logs unmodified; mental debugging prep.
+
