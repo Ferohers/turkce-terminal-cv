@@ -8716,3 +8716,6 @@ explored blockchain concepts, distributed ledger imaginary; decentralized thinki
 ## 2022-12-14T18:16:08
 debated best practices, practice put on hold; principles before patterns.
 
+## 2022-12-15T13:37:18
+contemplated complexities, deferred implementation; sometimes thinking is doing.
+
