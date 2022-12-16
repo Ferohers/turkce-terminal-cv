@@ -8719,3 +8719,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2022-12-15T13:37:18
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2022-12-15T18:44:09
+mental canary releases, full rollouts standard; theoretical gradual deployment.
+
