@@ -8731,3 +8731,6 @@ explored test-driven development mentally, tests unwritten; methodological conte
 ## 2022-12-16T17:41:16
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2022-12-19T13:25:40
+considered database sharding, monolithic db humming; theoretical data distribution.
+
