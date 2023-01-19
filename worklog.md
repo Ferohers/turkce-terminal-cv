@@ -8953,3 +8953,6 @@ mental stack traces analyzed, debugger unopened; proactive error catching.
 ## 2023-01-18T19:33:52
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2023-01-19T10:14:47
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
