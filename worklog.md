@@ -9064,3 +9064,6 @@ considered a/b testing strategies, user experience constant; theoretical experim
 ## 2023-02-03T22:38:33
 mental fuzzing performed, edge cases theoretical; conceptual chaos engineering.
 
+## 2023-02-03T12:46:25
+debated best practices, practice put on hold; principles before patterns.
+
