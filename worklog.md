@@ -9262,3 +9262,6 @@ considered cross-platform compatibility, platform-specific code intact; theoreti
 ## 2023-03-02T17:32:08
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2023-03-02T22:40:59
+debated best practices, practice put on hold; principles before patterns.
+
