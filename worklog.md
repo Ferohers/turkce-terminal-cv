@@ -9325,3 +9325,6 @@ mental circuit breaking, services fully connected; theoretical fault isolation.
 ## 2023-03-16T17:27:40
 navigated mental mazes, code labyrinth untouched; progress isn't always visible.
 
+## 2023-03-16T15:45:37
+debated best practices, practice put on hold; principles before patterns.
+
