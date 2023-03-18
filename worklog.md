@@ -9331,3 +9331,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2023-03-16T13:01:29
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2023-03-17T20:13:59
+conceptual cache invalidated, actual cache untouched; refreshing mental models.
+
