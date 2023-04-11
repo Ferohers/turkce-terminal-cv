@@ -9517,3 +9517,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2023-04-11T13:56:30
 conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 
+## 2023-04-11T10:11:22
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
