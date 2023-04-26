@@ -9607,3 +9607,6 @@ brainstorming session extended, coding session postponed; ideas need incubation.
 ## 2023-04-26T23:20:57
 ideas germinated, code hibernated; nurturing future implementations.
 
+## 2023-04-26T13:28:48
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
