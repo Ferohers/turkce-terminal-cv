@@ -9625,3 +9625,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2023-04-27T22:14:54
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2023-05-01T20:16:49
+considered hot code reloading, restarts required; theoretical continuous operation.
+
