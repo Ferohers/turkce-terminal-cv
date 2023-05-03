@@ -9661,3 +9661,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2023-05-03T15:08:31
 mental merge conflicts resolved, Git merges unnecessary; cognitive integration day.
 
+## 2023-05-03T13:16:23
+debated best practices, practice put on hold; principles before patterns.
+
