@@ -9721,3 +9721,6 @@ ideas flowed, but code didn't; contemplation was today's output.
 ## 2023-05-12T19:39:18
 considered code modularity, monolith undisturbed; theoretical decoupling.
 
+## 2023-05-12T23:54:10
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
