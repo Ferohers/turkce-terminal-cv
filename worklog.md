@@ -9745,3 +9745,6 @@ explored the coding cosmos, keyboard gravity too strong; floating ideas.
 ## 2023-05-17T23:49:12
 conceptual refactoring day, codebase refactoring pending; reshaping ideas.
 
+## 2023-05-17T12:56:03
+mulled over possibilities, kept options open; decision tree growing.
+
