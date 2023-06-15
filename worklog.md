@@ -9970,3 +9970,6 @@ conceptual data modeling, schema unaltered; theoretical database design.
 ## 2023-06-15T09:52:13
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2023-06-15T14:07:05
+thought about code reviews, pull requests unopened; peer review visualization.
+
