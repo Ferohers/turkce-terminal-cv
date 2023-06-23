@@ -10033,3 +10033,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2023-06-23T22:49:59
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2023-06-23T12:56:51
+contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
+
