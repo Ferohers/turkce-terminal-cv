@@ -10159,3 +10159,6 @@ explored domain-driven design, bounded contexts imaginary; conceptual modeling e
 ## 2023-07-10T09:35:22
 pondered blue-green deployments, single environment stable; zero-downtime theories.
 
+## 2023-07-10T14:50:13
+debated best practices, practice put on hold; principles before patterns.
+
