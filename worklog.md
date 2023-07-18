@@ -10243,3 +10243,6 @@ pondered homomorphic encryption, data in clear; theoretical secure computation.
 ## 2023-07-18T10:10:16
 pondered cqrs pattern, read/write models unified; architectural separation in mind.
 
+## 2023-07-18T15:17:08
+evaluated trade-offs, decisions pending; weighing options is progress too.
+
