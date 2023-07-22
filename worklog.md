@@ -10285,3 +10285,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2023-07-21T09:04:06
 conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 
+## 2023-07-22T12:11:38
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
