@@ -10636,3 +10636,6 @@ pondered orm abstractions, sql queries unchanged; data access theorizing.
 ## 2023-09-12T16:32:40
 explored the problem iceberg, tip remains unmelted; depth before breadth.
 
+## 2023-09-12T20:39:32
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
