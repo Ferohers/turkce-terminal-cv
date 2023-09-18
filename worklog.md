@@ -10702,3 +10702,6 @@ conceptual unit tests passed, actual tests unwritten; mental QA day.
 ## 2023-09-18T13:07:37
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2023-09-18T10:22:29
+considered database sharding, monolithic db humming; theoretical data distribution.
+
