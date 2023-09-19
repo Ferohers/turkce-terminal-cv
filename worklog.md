@@ -10705,3 +10705,6 @@ explored the forest, trees remain untouched; zooming out has value.
 ## 2023-09-18T10:22:29
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2023-09-19T09:19:32
+mental load testing, servers unchallenged; capacity planning in theory.
+
