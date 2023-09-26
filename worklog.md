@@ -10744,3 +10744,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2023-09-22T17:35:05
 thought about scalability, current scale unmoved; future-proofing in mind.
 
+## 2023-09-25T21:22:20
+considered containerization, docker-free day; isolation in thought only.
+
