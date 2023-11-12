@@ -61,3 +61,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2023-11-09T22:27:10
 practiced mental pair programming, solo coding in reality; collaborative visualization.
 
+## 2023-11-11T20:33:08
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
