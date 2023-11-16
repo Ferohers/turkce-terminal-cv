@@ -91,3 +91,6 @@ mental api gateway design, direct service calls ongoing; theoretical request man
 ## 2023-11-15T18:38:58
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2023-11-15T23:45:50
+considered containerization, docker-free day; isolation in thought only.
+
