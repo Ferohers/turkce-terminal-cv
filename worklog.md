@@ -94,3 +94,6 @@ considered database sharding, monolithic db humming; theoretical data distributi
 ## 2023-11-15T23:45:50
 considered containerization, docker-free day; isolation in thought only.
 
+## 2023-11-16T20:20:35
+explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
+
