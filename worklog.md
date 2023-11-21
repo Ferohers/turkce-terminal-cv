@@ -121,3 +121,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2023-11-20T13:21:16
 contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
 
+## 2023-11-20T18:28:08
+thought about scalability, current scale unmoved; future-proofing in mind.
+
