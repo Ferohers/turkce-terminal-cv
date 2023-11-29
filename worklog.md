@@ -178,3 +178,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2023-11-27T10:02:06
 thought about code reviews, pull requests unopened; peer review visualization.
 
+## 2023-11-28T18:10:24
+mental canary releases, full rollouts standard; theoretical gradual deployment.
+
