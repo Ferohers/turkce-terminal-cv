@@ -11212,3 +11212,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2023-11-29T22:23:19
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2023-11-29T19:30:10
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
