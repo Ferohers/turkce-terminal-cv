@@ -319,3 +319,6 @@ explored fault tolerance mentally, system stability assumed; theoretical resilie
 ## 2023-12-18T17:11:25
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2023-12-18T15:26:17
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
