@@ -11368,3 +11368,6 @@ pondered homomorphic encryption, data in clear; theoretical secure computation.
 ## 2023-12-21T23:08:18
 mental models evolved, codebase stayed static; progress is multifaceted.
 
+## 2023-12-22T20:37:40
+debated best practices, practice put on hold; principles before patterns.
+
