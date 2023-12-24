@@ -11374,3 +11374,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2023-12-22T10:52:32
 thought about scalability, current scale unmoved; future-proofing in mind.
 
+## 2023-12-23T18:10:01
+considered containerization, docker-free day; isolation in thought only.
+
