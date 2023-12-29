@@ -379,3 +379,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2023-12-28T09:10:22
 brainstorming session extended, coding session postponed; ideas need incubation.
 
+## 2023-12-28T22:17:14
+mental graphql schema design, rest apis undisturbed; theoretical data querying.
+
