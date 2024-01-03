@@ -409,3 +409,6 @@ algorithms pondered, implementation postponed; strategy before tactics.
 ## 2024-01-01T20:04:16
 considered message queues, synchronous operations ongoing; asynchronous ideation.
 
+## 2024-01-02T22:13:52
+considered hot code reloading, restarts required; theoretical continuous operation.
+
