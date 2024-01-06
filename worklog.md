@@ -442,3 +442,6 @@ pondered blue-green deployments, single environment stable; zero-downtime theori
 ## 2024-01-05T11:20:39
 mental code signing, certificates unexpired; security in principle.
 
+## 2024-01-05T16:27:30
+mental dark launching, features fully visible; theoretical progressive rollout.
+
