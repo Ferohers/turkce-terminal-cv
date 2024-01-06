@@ -445,3 +445,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2024-01-05T16:27:30
 mental dark launching, features fully visible; theoretical progressive rollout.
 
+## 2024-01-05T21:35:22
+conceptual unit tests passed, actual tests unwritten; mental QA day.
+
