@@ -496,3 +496,6 @@ mental stack traces analyzed, debugger unopened; proactive error catching.
 ## 2024-01-09T11:43:27
 conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 
+## 2024-01-09T16:59:19
+debated best practices, practice put on hold; principles before patterns.
+
