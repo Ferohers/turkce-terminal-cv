@@ -514,3 +514,6 @@ abstract problem-solving, concrete solutions pending; cognitive algorithmic work
 ## 2024-01-12T12:04:11
 explored possibilities, deferred decisions; progress measured in thoughts.
 
+## 2024-01-12T10:12:02
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
