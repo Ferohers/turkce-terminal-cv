@@ -517,3 +517,6 @@ explored possibilities, deferred decisions; progress measured in thoughts.
 ## 2024-01-12T10:12:02
 interface designs sketched mentally, APIs unchanged; UX of the mind.
 
+## 2024-01-15T11:48:33
+debated best practices, practice put on hold; principles before patterns.
+
