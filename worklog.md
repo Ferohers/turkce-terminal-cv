@@ -544,3 +544,6 @@ mental fuzzing performed, edge cases theoretical; conceptual chaos engineering.
 ## 2024-01-20T16:57:33
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2024-01-20T14:12:24
+considered scalability issues, scaling postponed; thinking big while starting small.
+
