@@ -11581,3 +11581,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2024-01-18T11:25:22
 mental code signing, certificates unexpired; security in principle.
 
+## 2024-01-19T18:47:54
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
