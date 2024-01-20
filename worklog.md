@@ -11584,3 +11584,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2024-01-19T18:47:54
 pondered homomorphic encryption, data in clear; theoretical secure computation.
 
+## 2024-01-19T22:54:45
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
