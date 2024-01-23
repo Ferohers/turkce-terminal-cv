@@ -11620,3 +11620,6 @@ pondered much, produced little; tomorrow's another chance.
 ## 2024-01-22T20:38:24
 conceptual data modeling, schema unaltered; theoretical database design.
 
+## 2024-01-22T18:46:16
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
