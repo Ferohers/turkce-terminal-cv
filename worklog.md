@@ -11725,3 +11725,6 @@ explored possibilities, deferred decisions; progress measured in thoughts.
 ## 2024-02-05T12:42:02
 conducted thought experiments, real experiments postponed; hypothesis before test.
 
+## 2024-02-05T10:57:53
+considered scalability issues, scaling postponed; thinking big while starting small.
+
