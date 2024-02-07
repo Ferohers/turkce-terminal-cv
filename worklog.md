@@ -661,3 +661,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2024-02-06T16:39:42
 ideas percolated, execution postponed; tomorrow's another dev day.
 
+## 2024-02-06T21:54:34
+explored service mesh concepts, network calls direct; theoretical request routing.
+
