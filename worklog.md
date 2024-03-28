@@ -1039,3 +1039,6 @@ mental feature toggles, all features on; theoretical selective execution.
 ## 2024-03-27T18:17:56
 thought bubbles aplenty, commit bubbles scarce; ideas fermenting.
 
+## 2024-03-28T12:52:17
+explored web assembly, javascript dominant; theoretical performance optimization.
+
