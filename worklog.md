@@ -1243,3 +1243,6 @@ explored domain-driven design, bounded contexts imaginary; conceptual modeling e
 ## 2024-04-22T18:40:12
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2024-04-23T12:14:55
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
