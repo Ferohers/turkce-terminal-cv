@@ -12325,3 +12325,6 @@ intellectual heavy lifting day; codebase weight unchanged.
 ## 2024-04-25T09:12:51
 debated best practices, practice put on hold; principles before patterns.
 
+## 2024-04-25T14:19:42
+mental graphql schema design, rest apis undisturbed; theoretical data querying.
+
