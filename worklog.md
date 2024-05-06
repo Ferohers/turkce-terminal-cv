@@ -12394,3 +12394,6 @@ ideas percolated, execution postponed; tomorrow's another dev day.
 ## 2024-05-06T23:22:07
 evaluated trade-offs, decisions pending; weighing options is progress too.
 
+## 2024-05-06T13:38:58
+considered oauth flows, authentication unchanged; theoretical access control.
+
