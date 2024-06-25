@@ -12790,3 +12790,6 @@ explored asynchronous patterns, callbacks unwritten; concurrent thinking exercis
 ## 2024-06-24T15:59:15
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2024-06-24T20:07:07
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
