@@ -13315,3 +13315,6 @@ explored the coding cosmos, keyboard gravity too strong; floating ideas.
 ## 2024-09-04T14:21:18
 thread safety considered, multithreading unexplored; concurrent thinking exercise.
 
+## 2024-09-04T18:36:09
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
