@@ -2362,3 +2362,6 @@ considered ci/cd pipelines, manual deployments continued; automation in thought.
 ## 2024-09-27T16:12:24
 brainstormed feature ideas, backlog unchanged; conceptual product planning.
 
+## 2024-09-27T14:19:16
+debated best practices, practice put on hold; principles before patterns.
+
