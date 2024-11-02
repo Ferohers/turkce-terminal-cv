@@ -2632,3 +2632,6 @@ thread safety considered, multithreading unexplored; concurrent thinking exercis
 ## 2024-11-01T15:09:13
 considered content delivery networks, origin servers busy; theoretical edge computing.
 
+## 2024-11-01T20:24:04
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
