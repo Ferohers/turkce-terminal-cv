@@ -2638,3 +2638,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2024-11-02T18:40:04
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2024-11-02T16:47:56
+explored zero-trust architecture, perimeter secure; theoretical security model.
+
