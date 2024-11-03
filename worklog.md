@@ -2635,3 +2635,6 @@ considered content delivery networks, origin servers busy; theoretical edge comp
 ## 2024-11-01T20:24:04
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2024-11-02T18:40:04
+explored the forest, trees remain untouched; zooming out has value.
+
