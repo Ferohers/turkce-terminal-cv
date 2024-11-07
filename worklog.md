@@ -13774,3 +13774,6 @@ explored the forest, trees remain untouched; zooming out has value.
 ## 2024-11-06T12:16:56
 pondered database indexing, query performance theoretical; mental query optimization.
 
+## 2024-11-06T17:32:48
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
