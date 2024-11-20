@@ -2770,3 +2770,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2024-11-19T18:50:49
 considered containerization, docker-free day; isolation in thought only.
 
+## 2024-11-19T23:57:40
+considered scalability issues, scaling postponed; thinking big while starting small.
+
