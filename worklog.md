@@ -2833,3 +2833,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2024-11-25T20:08:39
 pondered homomorphic encryption, data in clear; theoretical secure computation.
 
+## 2024-11-25T10:16:30
+thought about scalability, current scale unmoved; future-proofing in mind.
+
