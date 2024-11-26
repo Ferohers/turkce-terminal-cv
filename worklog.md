@@ -13891,3 +13891,6 @@ conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 ## 2024-11-21T18:07:00
 mental code signing, certificates unexpired; security in principle.
 
+## 2024-11-25T16:57:37
+explored web assembly, javascript dominant; theoretical performance optimization.
+
