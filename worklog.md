@@ -2965,3 +2965,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2024-12-07T18:27:14
 mental graphql schema design, rest apis undisturbed; theoretical data querying.
 
+## 2024-12-07T23:43:05
+considered scalability issues, scaling postponed; thinking big while starting small.
+
