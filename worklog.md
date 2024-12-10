@@ -2968,3 +2968,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2024-12-07T23:43:05
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2024-12-09T20:38:40
+explored containerization concepts, docker files unwritten; mental isolation practice.
+
