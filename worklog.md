@@ -3337,3 +3337,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2025-01-21T21:50:22
 mental graphql schema design, rest apis undisturbed; theoretical data querying.
 
+## 2025-01-22T15:01:41
+mulled over possibilities, kept options open; decision tree growing.
+
