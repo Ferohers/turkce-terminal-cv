@@ -3349,3 +3349,6 @@ interface designs sketched mentally, APIs unchanged; UX of the mind.
 ## 2025-01-24T14:16:27
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2025-01-27T23:01:09
+mental code signing, certificates unexpired; security in principle.
+
