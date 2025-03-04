@@ -14695,3 +14695,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2025-03-03T13:54:49
 mental version control practiced, git uninvolved; tracking thought evolution.
 
+## 2025-03-04T13:46:16
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
