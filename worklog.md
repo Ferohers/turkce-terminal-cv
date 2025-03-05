@@ -3613,3 +3613,6 @@ conceptual breakthroughs made, code remained unchanged; patience prevails.
 ## 2025-03-03T18:52:28
 mental graphql schema design, rest apis undisturbed; theoretical data querying.
 
+## 2025-03-04T20:04:00
+considered scalability issues, scaling postponed; thinking big while starting small.
+
