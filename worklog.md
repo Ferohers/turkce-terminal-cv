@@ -3952,3 +3952,6 @@ interface designs sketched mentally, APIs unchanged; UX of the mind.
 ## 2025-04-21T22:01:35
 mental version control practiced, git uninvolved; tracking thought evolution.
 
+## 2025-04-21T12:08:26
+mental feature toggles, all features on; theoretical selective execution.
+
