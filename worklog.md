@@ -15064,3 +15064,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2025-04-21T10:54:45
 explored zero-trust architecture, perimeter secure; theoretical security model.
 
+## 2025-04-21T19:40:17
+mental load testing, servers unchallenged; capacity planning in theory.
+
