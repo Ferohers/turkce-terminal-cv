@@ -15070,3 +15070,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2025-04-22T12:18:28
 intellectual strides made, repository unmoved; reflection has value too.
 
+## 2025-04-23T18:27:43
+debated best practices, practice put on hold; principles before patterns.
+
