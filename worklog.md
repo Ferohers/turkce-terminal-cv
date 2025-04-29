@@ -4012,3 +4012,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2025-04-29T19:11:56
 theoretical optimizations considered, practical ones deferred; thinking before leaping.
 
+## 2025-04-29T09:18:47
+considered scalability issues, scaling postponed; thinking big while starting small.
+
