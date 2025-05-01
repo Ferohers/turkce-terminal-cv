@@ -15151,3 +15151,6 @@ ideated on interface design, UI unchanged; conceptual user experience work.
 ## 2025-04-30T21:49:07
 considered a/b testing strategies, user experience constant; theoretical experimentation.
 
+## 2025-04-30T21:55:22
+debated best practices, practice put on hold; principles before patterns.
+
