@@ -4180,3 +4180,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2025-05-15T13:36:04
 navigated mental mazes, code labyrinth untouched; progress isn't always visible.
 
+## 2025-05-15T11:43:55
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
