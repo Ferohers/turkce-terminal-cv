@@ -4174,3 +4174,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2025-05-15T11:02:23
 conceptual refactoring day, codebase refactoring pending; reshaping ideas.
 
+## 2025-05-15T09:20:20
+debated best practices, practice put on hold; principles before patterns.
+
