@@ -1,0 +1,116 @@
+[
+  {
+    "command": "yardım",
+    "responseType": "list",
+    "value": [
+      "<code>hakkında</code> : Bu kod kişi hakkında kısa bilgi verir",
+      "<code>deneyimler</code> : Kişinin geçmiş deneyimlerini listeler",
+      "<code>cv indir</code> : Eline AI değmemiş CV'im",
+      "<code>yardım</code> : Girebileceğiniz omutları görüntüler",
+      "<code>hobiler</code> : Kişinin özel hayatı",
+      "<code>projeler</code> : Boyundan büyük girdiği işler",
+      "<code>temizle</code> : Bu kod ekranı temizler",
+      "<code>aydınlık/karanlık</code> : bu komutlar ile tema değişir",
+      "<em>Bazı komutlar uzun veya Türkçe karakter içeriyorsa TAB tuşu ile tamamlayabilirsiniz</em>",
+      "<em>Klavye ok tuşları ile geçmiş komutlarınızı görürsünüz.</em>"
+    ]
+  },
+  {
+    "command": "hakkında",
+    "responseType": "code",
+    "value": [
+      "{",
+      "   \"isim\" : \"Altan Duman\",",
+      "   \"meslek\" : \"İK Profesyöneli\",",
+      "   \"deneyim\" : \"14 yıl\",",
+      "   \"ikamet\" : \"İstanbul, Türkiye\"",
+      "}"
+    ]
+  },
+  {
+    "command": "deneyimler",
+    "responseType": "table",
+    "headers": [
+      "Tarih",
+      "Firma",
+      "Açıklama",
+      "Pozisyon"
+    ],
+    "rows": [
+      [
+        "2025<br/>devam",
+        "GoWit (AdTECH)",
+        "İşe alım, SOC 2 süreçleri ve startup sürecinden büyüme sürecinin yönetilmesi",
+        "İK Yöneticisi"
+      ],
+      [
+        "2023<br/>2025",
+        "Ventura (Fintech)",
+        "Türkiye İK Yöneticisi, 3 diğer ülke İK lideri.",
+        "İK Lideri"
+      ],
+      [
+        "2018<br/>2022",
+        "Advantech (IT)",
+        "Kültürel uyum sürecine liderlik, SAP adaptasyonu, esnek çalışma planı uygulaması ve prim sistemlerini merkez ofisle uyumlu hale getirilmesi.",
+        "İK Yöneticisi"
+      ],
+      [
+        "2014<br/>2018",
+        "H.I.S. Japan (B2B Travel, IT)",
+        "İK departmanını kurulumu, İK dijitalleştirilmesi, akademi kurulumu, geri bildirim ve işe alım stratejilerinin tasarlanması...",
+        "İK Yöneticisi"
+      ],
+      [
+        "2010<br/>2012",
+        "NSR (Outsource HR)",
+        "Dış kaynak İK çalışanı olarak farklı firmalara İK çözümlerinin sunulması.",
+        "HR Associate"
+      ]
+    ]
+  },
+  {
+    "command": "hobiler",
+    "responseType": "list",
+    "value": [
+      "Müzik: Bossa nova, Nu Disco",
+      "IT: Self hosting, Açık kaynak araçlar, bağlantı protokolleri",
+      "Diğer: Uzun hikaye yazımı, Balkon tarımı"
+    ]
+  },
+  {
+    "command": "projeler",
+    "responseType": "table",
+    "headers": [
+      "İsim",
+      "Açıklama",
+      "Yetenek",
+    ],
+    "rows": [
+      [
+        "hr.his<br/>(2015)",
+        "4 farklı açık kaynak kodlu projeyi kanabalize ederek yeni bir İK portalı oluşturduk. Genel olarak Frappe backend hesaplamalar ise frontend'de JS'ler ile yapıldı.",
+        "Python, MySQL, İK Yetenekleri",
+  
+      ],
+      [
+        "Global şube<br/>(2018)",
+        "Bir Türk teknoloji firmasının global bir yapının parçası haline gelmesini içeren uzun soluklu proje.",
+        "İşe alım, politika oluşumu, kültür değişimi",
+  
+      ],
+      [
+        "HIS Akademi<br/>(2021)",
+        "Çalışan kariyer yönetimi kapsamında büyük bir akademi yapısının kurulumu. Çalışanların belirli yeteneklerin kazandırılarak farklı şubelerde daha iyi pozisyonlarda çalışmasının önü açıldı.",
+        "Yetişkin eğitimi, kariyer yönetimi",
+
+      ],
+      [
+        "Rekabetçi Maaş Politikası<br/>(2024)",
+        "Belirli metriklere sahip olarak rekabetçi maaşların belirlenmesinin sağlanarak bir politika haline getirilmesi. İşten çıkış miktarının yarıdan aza düşürülmesi. %30'dan %12-13'e",
+        "Maaş yönetimi, çalışan yönetimi",
+   
+      ]
+    ]
+  }
+]
