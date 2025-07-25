@@ -53,8 +53,8 @@ export function setDarkMode(value) {
 
 export function getCV() {
   const a = document.createElement("a");
-  a.href = "https://my-resume.adautry.fr/download-latest";
-  a.setAttribute("download", "CV - Antoine DAUTRY.pdf");
+  a.href = "https://github.com/Ferohers/turkce-terminal-cv/raw/main/statik-dosya/Altan%20Duman%20-%20English%20Standard.pdf";
+  a.setAttribute("download", "CV - Altan Duman.pdf");
   a.click();
 }
 
