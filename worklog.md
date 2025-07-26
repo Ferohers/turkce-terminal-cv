@@ -4747,3 +4747,6 @@ conceptual cache invalidated, actual cache untouched; refreshing mental models.
 ## 2025-07-25T22:29:05
 mental code signing, certificates unexpired; security in principle.
 
+## 2025-07-25T20:37:57
+considered logging strategies, log files unchanging; traceability in theory.
+
