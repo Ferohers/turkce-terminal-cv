@@ -1,0 +1,32 @@
+\033[1;36mAltan Duman\033[0m
+\033[1;33mHR PROFESSIONAL\033[0m
+
+📞 +90 555 888 23 56 | 📧 altan.duman@outlook.com
+📍 Eyup, Istanbul | 🔗 linkedin.com/in/altanduman
+
+\033[0mDedicated HR Manager with 10+ years of experience advocating for employee
+needs and maintaining compliance with all company and labour law.
+
+\033[1;33mSkills\033[0m
+  ▸ ATS Systems         ▸ HR Digitalization     ▸ 360 Recruitment
+  ▸ Policy Development  ▸ ERPs (SAP B1, ERPNext)
+  ▸ Onboarding          ▸ HR Reporting          ▸ Internal Communication
+  ▸ LinkedIn Recruiter  ▸ HR Strategy           ▸ Teamwork
+
+\033[1;33mEducation\033[0m
+  \033[0;32mBachelor of Human Resources Management\033[0m
+  \033[0;35mUniversity of Wollongong, Australia\033[0m
+
+\033[1;33mExperience\033[0m
+
+  \033[0;32mHR Manager\033[0m | GoWit (AdTECH)
+  \033[0;35mRemote | 2025 – Present\033[0m
+    • SOC 2
+    • Recruitment & Selection
+    • Startup to scaleup HR management.
+
+  \033[0;32mHead of HR\033[0m | Ventura (Fintech)
+  \033[0;35mIstanbul | 2023 – 2025\033[0m
+    • Established 3 remote branches in SE Asia
+    • Led overseas HR teams, volume hiring, onboarding training programs
+    • Managed international HR teams to reach goals
