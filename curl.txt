@@ -1,16 +1,58 @@
-================================================================================
-[bright blue]              Altan Duman - Software Developer CV             [/bright blue]
-================================================================================
+#!/bin/bash
 
-[bright blue][ PROFILE ][/bright blue]
-[light gray]Name:     Altan Duman[/light gray]
-[red]Email:    altan.duman@example.com[/red]
-[red]Phone:    +90 555 123 4567[/red]
-[light gray]GitHub:   github.com/altanduman[/light gray]
+# Altan Duman's CV with ANSI colors for modern terminals (including zsh)
 
-[bright blue][ SUMMARY ][/bright blue]
-[soft gray]> Full-stack developer with 5+ years of experience...[/soft gray]
+# Cyan for headers
+CYAN='\033[0;36m'
+# Yellow for subheaders
+YELLOW='\033[1;33m'
+# Green for details
+GREEN='\033[0;32m'
+# Reset color
+NC='\033[0m'
 
-[bright blue][ SKILLS ][/bright blue]
-[yellow]- Languages: Python, JavaScript, TypeScript, Java[/yellow]
-[yellow]- Frameworks: Django, React, Node.js, Express[/yellow]
+echo -e "${CYAN}=====================================${NC}"
+echo -e "${CYAN}          Altan Duman - HR Professional${NC}"
+echo -e "${CYAN}=====================================${NC}"
+echo -e "${GREEN}+90 555 888 23 56  |  altan.duman@outlook.com  |  Eyup, Istanbul  |  linkedin.com/in/altanduman${NC}\n"
+
+echo -e "${CYAN}Summary${NC}"
+echo -e "${GREEN}Dedicated HR Manager with 10+ years of experience advocating for employee needs and maintaining compliance with all company and labour law.${NC}\n"
+
+echo -e "${CYAN}Skills${NC}"
+echo -e "${YELLOW}ATS Systems${NC}           ${GREEN}HR Digitalization${NC}    ${YELLOW}360 Recruitment${NC}      ${GREEN}Policy Development${NC}"
+echo -e "${YELLOW}ERPs (SAP B1, ERPNext)${NC} ${GREEN}Onboarding${NC}           ${YELLOW}HR Reporting${NC}         ${GREEN}Internal Communication${NC}"
+echo -e "${YELLOW}Linkedin Recruiter${NC}   ${GREEN}HR Strategy${NC}         ${YELLOW}Commercial Awareness${NC} ${GREEN}Teamwork${NC}\n"
+
+echo -e "${CYAN}Education${NC}"
+echo -e "${YELLOW}Bachelor of Human Resources Management${NC}"
+echo -e "${GREEN}University of Wolongong, Australia${NC}\n"
+
+echo -e "${CYAN}Work Experience${NC}"
+echo -e "${YELLOW}HR Manager | GoWit (AdTECH) | Remote | 2025 – Present${NC}"
+echo -e "${GREEN}- SOC 2${NC}"
+echo -e "${GREEN}- Recruitment & Selection${NC}"
+echo -e "${GREEN}- Startup to scaleup HR management${NC}\n"
+
+echo -e "${YELLOW}Head of HR | Ventura (Fintech) | Istanbul | 2023 – 2025${NC}"
+echo -e "${GREEN}- Established 3 remote branches in SE Asia, led HR teams overseas, managed Istanbul${NC}"
+echo -e "${GREEN}- HR ops, volume hired and built onboarding training programs${NC}"
+echo -e "${GREEN}- Managed international HR teams to reach goals${NC}\n"
+
+echo -e "${YELLOW}HR Manager | Advantech (IT) | Istanbul | 2018 – 2022${NC}"
+echo -e "${GREEN}- Founded and supported departments, led culture adaptation, implemented SAP and a custom HR portal${NC}"
+echo -e "${GREEN}- Launched flexi-work plans, and aligned commission schemes with HQ${NC}"
+echo -e "${GREEN}- Supported transition from local to internationally connected branch${NC}\n"
+
+echo -e "${YELLOW}HR & Org. Dev. Manager | H.I.S. Japan (B2B Travel, IT) | Istanbul | 2014 – 2018${NC}"
+echo -e "${GREEN}- Built the HR department from scratch, digitalized all systems, launched H.I.S. Academy${NC}"
+echo -e "${GREEN}- Designed feedback and recruitment strategies, and led HR initiatives across a matrix organization${NC}"
+echo -e "${GREEN}- Managed team of 4 to provide HR shared services${NC}\n"
+
+echo -e "${YELLOW}HR Executive | Polytext (Production) | Tekirdag | 2013 – 2014${NC}"
+echo -e "${GREEN}- End-to-end recruitment, responsible for training, standards, and reporting (TPM, 5S, Kaizen)${NC}\n"
+
+echo -e "${YELLOW}HR Associate | NSR (Outsource HR) | Sydney | 2010 – 2012${NC}"
+echo -e "${GREEN}- Supported HR operations${NC}\n"
+
+echo -e "${CYAN}=====================================${NC}"
