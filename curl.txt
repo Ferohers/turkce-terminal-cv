@@ -1,54 +1,16 @@
 ================================================================================
-              Altan Duman - Software Developer CV
+[bright blue]              Altan Duman - Software Developer CV             [/bright blue]
 ================================================================================
 
-[ PROFILE ]
-Name:     Altan Duman
-Email:    altan.duman@example.com
-Phone:    +90 555 123 4567
-GitHub:   github.com/altanduman
-LinkedIn: linkedin.com/in/altanduman
+[bright blue][ PROFILE ][/bright blue]
+[light gray]Name:     Altan Duman[/light gray]
+[red]Email:    altan.duman@example.com[/red]
+[red]Phone:    +90 555 123 4567[/red]
+[light gray]GitHub:   github.com/altanduman[/light gray]
 
-[ SUMMARY ]
-> Full-stack developer with 5+ years of experience in building scalable web
-> applications using Python, JavaScript, and Node.js. Proficient in Agile
-> methodologies and passionate about clean code and open-source contributions.
+[bright blue][ SUMMARY ][/bright blue]
+[soft gray]> Full-stack developer with 5+ years of experience...[/soft gray]
 
-[ EXPERIENCE ]
---------------------------------------------------------------------------------
-Senior Developer | TechCorp, Istanbul, TR          | 2022 - Present
-- Led development of a microservices-based e-commerce platform using Django.
-- Optimized database queries, reducing response time by 30%.
-- Mentored junior developers and conducted code reviews.
---------------------------------------------------------------------------------
-Software Engineer | InnovateSoft, Ankara, TR       | 2019 - 2022
-- Built RESTful APIs with Node.js and Express for a SaaS product.
-- Integrated CI/CD pipelines using GitHub Actions, improving deployment speed.
-- Collaborated with UX team to enhance front-end with React.
---------------------------------------------------------------------------------
-
-[ EDUCATION ]
-B.Sc. Computer Science | Bogazici University, Istanbul, TR | 2015 - 2019
-- Graduated with honors, focus on algorithms and distributed systems.
-
-[ SKILLS ]
-- Languages: Python, JavaScript, TypeScript, Java
-- Frameworks: Django, React, Node.js, Express
-- Tools: Docker, Git, AWS, PostgreSQL
-- Soft Skills: Team Leadership, Problem-Solving, Agile/Scrum
-
-[ PROJECTS ]
-> Open-Source Terminal CV | github.com/Ferohers/turkce-terminal-cv
-- Created a terminal-styled CV in Turkish and English using Markdown and Bash.
-- Hosted static files on GitHub for easy access and sharing.
-
-[ CERTIFICATIONS ]
-- AWS Certified Solutions Architect | 2023
-- Professional Scrum Master I | 2021
-
-[ LANGUAGES ]
-- Turkish (Native)
-- English (Fluent)
-
-================================================================================
-$ # CV fetched successfully. Contact altan.duman@example.com for opportunities.
+[bright blue][ SKILLS ][/bright blue]
+[yellow]- Languages: Python, JavaScript, TypeScript, Java[/yellow]
+[yellow]- Frameworks: Django, React, Node.js, Express[/yellow]
