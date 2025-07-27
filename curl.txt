@@ -1,32 +1,54 @@
-\033[1;36mAltan Duman\033[0m
-\033[1;33mHR PROFESSIONAL\033[0m
+================================================================================
+              Altan Duman - Software Developer CV
+================================================================================
 
-📞 +90 555 888 23 56 | 📧 altan.duman@outlook.com
-📍 Eyup, Istanbul | 🔗 linkedin.com/in/altanduman
+[ PROFILE ]
+Name:     Altan Duman
+Email:    altan.duman@example.com
+Phone:    +90 555 123 4567
+GitHub:   github.com/altanduman
+LinkedIn: linkedin.com/in/altanduman
 
-\033[0mDedicated HR Manager with 10+ years of experience advocating for employee
-needs and maintaining compliance with all company and labour law.
+[ SUMMARY ]
+> Full-stack developer with 5+ years of experience in building scalable web
+> applications using Python, JavaScript, and Node.js. Proficient in Agile
+> methodologies and passionate about clean code and open-source contributions.
 
-\033[1;33mSkills\033[0m
-  ▸ ATS Systems         ▸ HR Digitalization     ▸ 360 Recruitment
-  ▸ Policy Development  ▸ ERPs (SAP B1, ERPNext)
-  ▸ Onboarding          ▸ HR Reporting          ▸ Internal Communication
-  ▸ LinkedIn Recruiter  ▸ HR Strategy           ▸ Teamwork
+[ EXPERIENCE ]
+--------------------------------------------------------------------------------
+Senior Developer | TechCorp, Istanbul, TR          | 2022 - Present
+- Led development of a microservices-based e-commerce platform using Django.
+- Optimized database queries, reducing response time by 30%.
+- Mentored junior developers and conducted code reviews.
+--------------------------------------------------------------------------------
+Software Engineer | InnovateSoft, Ankara, TR       | 2019 - 2022
+- Built RESTful APIs with Node.js and Express for a SaaS product.
+- Integrated CI/CD pipelines using GitHub Actions, improving deployment speed.
+- Collaborated with UX team to enhance front-end with React.
+--------------------------------------------------------------------------------
 
-\033[1;33mEducation\033[0m
-  \033[0;32mBachelor of Human Resources Management\033[0m
-  \033[0;35mUniversity of Wollongong, Australia\033[0m
+[ EDUCATION ]
+B.Sc. Computer Science | Bogazici University, Istanbul, TR | 2015 - 2019
+- Graduated with honors, focus on algorithms and distributed systems.
 
-\033[1;33mExperience\033[0m
+[ SKILLS ]
+- Languages: Python, JavaScript, TypeScript, Java
+- Frameworks: Django, React, Node.js, Express
+- Tools: Docker, Git, AWS, PostgreSQL
+- Soft Skills: Team Leadership, Problem-Solving, Agile/Scrum
 
-  \033[0;32mHR Manager\033[0m | GoWit (AdTECH)
-  \033[0;35mRemote | 2025 – Present\033[0m
-    • SOC 2
-    • Recruitment & Selection
-    • Startup to scaleup HR management.
+[ PROJECTS ]
+> Open-Source Terminal CV | github.com/Ferohers/turkce-terminal-cv
+- Created a terminal-styled CV in Turkish and English using Markdown and Bash.
+- Hosted static files on GitHub for easy access and sharing.
 
-  \033[0;32mHead of HR\033[0m | Ventura (Fintech)
-  \033[0;35mIstanbul | 2023 – 2025\033[0m
-    • Established 3 remote branches in SE Asia
-    • Led overseas HR teams, volume hiring, onboarding training programs
-    • Managed international HR teams to reach goals
+[ CERTIFICATIONS ]
+- AWS Certified Solutions Architect | 2023
+- Professional Scrum Master I | 2021
+
+[ LANGUAGES ]
+- Turkish (Native)
+- English (Fluent)
+
+================================================================================
+$ # CV fetched successfully. Contact altan.duman@example.com for opportunities.
