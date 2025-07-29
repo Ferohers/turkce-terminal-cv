@@ -15799,3 +15799,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2025-07-28T09:56:59
 ideas flowed, but code didn't; contemplation was today's output.
 
+## 2025-07-28T22:12:50
+pondered blue-green deployments, single environment stable; zero-downtime theories.
+
