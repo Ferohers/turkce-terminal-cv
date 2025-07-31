@@ -1,4 +1,4 @@
-# Türkçe Terminal CV
+# Türkçe Terminal CV V3
 
 Çalışan komutlar: pwd, cd (izin yok der), git, yardım listesi. 
 
