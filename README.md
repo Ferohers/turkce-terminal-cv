@@ -16,4 +16,4 @@ Web için dışa aktarma : npm run build
 Ek kullanılan kaynaklar: flaticon.com , freepik.com , Google Fonts , https://www.ascii-art-generator.org , https://hamvocke.com/blog/lets-create-a-terminal-color-scheme/
 teşekkürler: https://lesjoiesducode.fr/original-il-cree-son-cv-sous-la-forme-dun-terminal-linux
 
----  kodun sonu  ---
+--- kodun sonu ---
