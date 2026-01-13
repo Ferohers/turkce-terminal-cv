@@ -6,7 +6,7 @@ Nasıl değişiklik yapacağız ?
 Tüm dosyaları indiriyorsunuz yukarıda "Code" yazan yere tıklayın ve download deyin veya git clone komutu aynı işi görür.
 
 
-Projeyi çalıştırmak için   
+Projeyi çalıştırmak için  .... 
 
 Önce Node.js yükleyin sonra klasörde aşağıda bulunan kodları çalıştırın.
 npm install (bu gerekli dosyaları yükler)
